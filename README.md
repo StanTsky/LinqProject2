@@ -3,7 +3,7 @@
 ![screenshot1](https://raw.githubusercontent.com/StanTsky/LinqProject2/main/ExampleRun.PNG)
 
 ## Description
-Link project 2
+Linq project 2
 
 ## Purpose
 Learning C#, XML parsing, etc.

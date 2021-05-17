@@ -1,0 +1,45 @@
+<Pokedata>
+<Players>
+<player><name>Bradley</name><number>1</number><nickname>pacprof</nickname><city>Chicago</city><paid>TRUE</paid></player>
+<player><name>Clayton</name><number>2</number><nickname>pokechamp</nickname><city>Chicago</city><paid>FALSE</paid></player>
+<player><name>Tina</name><number>3</number><nickname>pikachu</nickname><city>Chicago</city><paid>TRUE</paid></player>
+<player><name>James</name><number>4</number><nickname>ilikethis</nickname><city>Kansas City</city><paid>TRUE</paid></player>
+<player><name>Timothy</name><number>5</number><nickname>noname</nickname><city>Tampa Bay</city><paid>FALSE</paid></player>
+<player><name>Gerald</name><number>6</number><nickname>someguy</nickname><city>Las Vegas</city><paid>TRUE</paid></player>
+<player><name>Alex</name><number>7</number><nickname>nomoreideas</nickname><city>Seattle</city><paid>TRUE</paid></player>
+<player><name>Bill</name><number>8</number><nickname>seriouslynone</nickname><city>Kansas City</city><paid>FALSE</paid></player>
+</Players>
+<PokemonTypes>
+<Pokemon><name>Bulbasaur</name><id>1</id><attack>120</attack><defense>130</defense></Pokemon>
+<Pokemon><name>Squirtle</name><id>2</id><attack>130</attack><defense>120</defense></Pokemon>
+<Pokemon><name>Rattata</name><id>3</id><attack>110</attack><defense>140</defense></Pokemon>
+<Pokemon><name>Pickachu</name><id>4</id><attack>100</attack><defense>150</defense></Pokemon>
+<Pokemon><name>Jigglypuff</name><id>5</id><attack>90</attack><defense>160</defense></Pokemon>
+<Pokemon><name>Jynx</name><id>6</id><attack>50</attack><defense>200</defense></Pokemon>
+<Pokemon><name>Ditto</name><id>7</id><attack>220</attack><defense>30</defense></Pokemon>
+<Pokemon><name>Seaking</name><id>8</id><attack>150</attack><defense>100</defense></Pokemon>
+</PokemonTypes>
+<OwnershipData>
+<Ownership><player>1</player><pokemonId>1</pokemonId><level>11</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>1</player><pokemonId>5</pokemonId><level>9</level><numberOwned>2</numberOwned></Ownership>
+<Ownership><player>1</player><pokemonId>7</pokemonId><level>5</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>2</player><pokemonId>2</pokemonId><level>32</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>2</player><pokemonId>4</pokemonId><level>2</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>3</player><pokemonId>3</pokemonId><level>43</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>3</player><pokemonId>8</pokemonId><level>1</level><numberOwned>3</numberOwned></Ownership>
+<Ownership><player>3</player><pokemonId>7</pokemonId><level>15</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>3</player><pokemonId>2</pokemonId><level>22</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>4</player><pokemonId>4</pokemonId><level>4</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>4</player><pokemonId>5</pokemonId><level>2</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>5</player><pokemonId>5</pokemonId><level>1</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>5</player><pokemonId>6</pokemonId><level>1</level><numberOwned>10</numberOwned></Ownership>
+<Ownership><player>6</player><pokemonId>6</pokemonId><level>1</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>6</player><pokemonId>1</pokemonId><level>2</level><numberOwned>2</numberOwned></Ownership>
+<Ownership><player>6</player><pokemonId>3</pokemonId><level>3</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>6</player><pokemonId>8</pokemonId><level>5</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>6</player><pokemonId>7</pokemonId><level>7</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>6</player><pokemonId>2</pokemonId><level>11</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>7</player><pokemonId>7</pokemonId><level>8</level><numberOwned>1</numberOwned></Ownership>
+<Ownership><player>8</player><pokemonId>8</pokemonId><level>9</level><numberOwned>1</numberOwned></Ownership>
+</OwnershipData>
+</Pokedata>
